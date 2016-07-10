@@ -12,7 +12,7 @@ import org.jsoup.nodes.Element;
  *
  * @author Abola Lee
  */
-//重新上傳
+//重新上傳檔案
 public class PM25 {
 
     static String elasticHost = "192.168.38.110" ;
